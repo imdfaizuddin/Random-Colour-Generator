@@ -12,6 +12,7 @@
     margin-bottom: 1rem;
 }
 #list{
+    /* list-style: none; */
     display: flex;
     column-gap: 20px;
     flex-wrap: wrap;
