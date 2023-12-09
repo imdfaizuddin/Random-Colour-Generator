@@ -1,0 +1,13 @@
+
+.container{
+    text-align: center;
+}
+.colorBox{
+    width: 40%;
+    height: 200px;
+    border: 1px black solid;
+    margin: auto;
+}
+.container > button{
+    margin-bottom: 1rem;
+}
